@@ -32,7 +32,7 @@ The Tableau dashboard includes:
 ## Files in Repository
 - `superstore.csv` → Dataset
 - `screenshots/` → Dashboard screenshots
-- `analysis_outputs/` → Data summaries & charts (from Python exploration)
+- `tableau_files/` → Data summaries & charts
 - `README.md` → Project documentation
 ## How to Reproduce
 1. Download the repository
